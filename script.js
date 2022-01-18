@@ -1,4 +1,4 @@
-timeLeft = 12;
+timeLeft = 10;
 
 function countdown() {
   timeLeft--;
