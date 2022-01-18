@@ -1,0 +1,29 @@
+body {
+  background-color: rgb(80, 124, 141);
+}
+#clock {
+  width: 250px;
+  height: 250px;
+  border-radius: 50%;
+  background-color: lightgrey;
+  margin: auto;
+}
+span {
+  display: block;
+  width: 100%;
+  margin: auto;
+  padding-top: 60px;
+  text-align: center;
+  font-size: 100px;
+}
+#india {
+  font-size: 70px;
+  color: green;
+  width: 500px;
+  height: 300px;
+  margin-left: 35%;
+  text-align: center;
+  background: -webkit-linear-gradient(orange, white, green);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
